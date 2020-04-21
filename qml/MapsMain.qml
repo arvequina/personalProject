@@ -1,3 +1,4 @@
+// New app from Marc Vila (@arvs87)
 import Felgo 3.0
 import QtQuick 2.0
 
